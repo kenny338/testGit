@@ -1,6 +1,6 @@
 class Hello {
-	func sayHello() -> String {
+	static func sayHello() -> String {
 	print("Hello")
-
+	
 }
 }
