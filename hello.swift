@@ -4,3 +4,8 @@ class Hello {
 
 }
 }
+extension Hello {
+	func sayGoodBye() {
+
+}
+}
