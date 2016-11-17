@@ -1,5 +1,5 @@
 class Hello {
-	static func sayHello() -> String {
+	 func sayHello() -> String {
 	prin("Hello")
 
 }
