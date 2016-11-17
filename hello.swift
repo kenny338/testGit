@@ -4,7 +4,6 @@ class Hello {
 }
 }
 extension Hello {
-	func sayGoodBye() {
-
+	func sayGoodBye() -> String {
 }
 }
